@@ -1,5 +1,5 @@
 # <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
-<p align="center">Boutefhika Nuha Ziyadatul Khair/p>
+<p align="center">Boutefhika Nuha Ziyadatul Khair /p>
 
 ## Dasar Teori
 
